@@ -3047,3 +3047,5 @@ CCP_138575178_DST,Water system 1521 – Distribution tap / outlet,138575178,Dist
 "CCP_20260826205033014_DST","LiveTest2341 – Before treatment / dosing","20260826205033014","Distribution point critical control point","","tap"
 "CCP_20260826205302882_SRC","Test_LAbel26 – Before treatment / dosing","20260826205302882","Water source critical control point","","source"
 "CCP_20260826205302882_DST","Test_LAbel26 – Before treatment / dosing","20260826205302882","Distribution point critical control point","","tap"
+"CCP__SRC","LivedemoCCP2708 – Water source / HP outlet","20260827054223870","Water source critical control point","","source"
+"CCP__DST","LivedemoCCP2708 – Water source / HP outlet","20260827054223870","Distribution point critical control point","","tap"
