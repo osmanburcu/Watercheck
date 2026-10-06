@@ -3079,3 +3079,5 @@ CCP_138575178_DST,Water system 1521 – Distribution tap / outlet,138575178,Dist
 "CCP8575155-24209_DST","Tewsstt – Water source / HP outlet","138575155","Distribution point critical control point","","tap","25.282265 21.348467 0 0"
 "CCP242037932-24201_SRC","TEST – Water source / HP outlet","WS242037932","Water source critical control point","","source","25.246908 16.427504 0 0"
 "CCP242037932-24201_DST","TEST – Water source / HP outlet","WS242037932","Distribution point critical control point","","tap","25.246908 16.427504 0 0"
+"CCP061400680-06146_SRC","Camp A Borehole – Distribution tap / outlet","WS061400680","Water source critical control point","close","source","12.371 -1.519 300 5"
+"CCP061400680-06146_DST","Camp A Borehole – Distribution tap / outlet","WS061400680","Distribution point critical control point","close","tap","12.371 -1.519 300 5"
