@@ -3095,3 +3095,5 @@ CCP_138575178_DST,Water system 1521 – Distribution tap / outlet,138575178,Dist
 "CCP061557832-06154_DST","Household visit 1 point – Household storage / container","WS061557832","Distribution point critical control point","","tap","12.368 -1.515 300 5"
 "CCP061601041-06162_SRC","Kiosk C point – Distribution tap / outlet","WS061601041","Water source critical control point","medium","source","12.408 1.555 300 5"
 "CCP061601041-06162_DST","Kiosk C point – Distribution tap / outlet","WS061601041","Distribution point critical control point","medium","tap","12.408 1.555 300 5"
+"CCP061608506-06166_SRC","Temp Pump Site D point – Distribution line","WS061608506","Water source critical control point","close","source","12.4 -1.545 300 5"
+"CCP061608506-06166_DST","Temp Pump Site D point – Distribution line","WS061608506","Distribution point critical control point","close","tap","12.4 -1.545 300 5"
