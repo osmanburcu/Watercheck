@@ -3101,3 +3101,4 @@ CCP_138575178_DST,Water system 1521 – Distribution tap / outlet,138575178,Dist
 "CCP091304734-09138_DST","BF12 – Distribution tap / outlet","WS091304734","Distribution point critical control point","close","tap","25.681137 -2.757588 0 0"
 "CCP091314759-09133_SRC","Redu – Household storage / container","WS091314759","Water source critical control point","","source","22.471955 2.874902 0 0"
 "CCP091314759-09133_DST","Redu – Household storage / container","WS091314759","Distribution point critical control point","","tap","22.471955 2.874902 0 0"
+"CCP091314759-09133","Redu – Household storage / container","WS091314759","Water source critical control point","","source","22.471955 2.874902 0 0"
