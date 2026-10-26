@@ -1,4 +1,4 @@
 name,label,p0_label,p1,p2,p3,system_id,ccp_id,parameters,sample_date,result,agency,ticket_status,failure_count,latest_failure_date,latest_result
 "c3b862e9-4e41-42d1-bcdb-f22e2d100775","2026-10-25 – Borehole with hand pump – 3658_SRC-odour","Burkina Faso","BF13","BF1300","BF130001","138573658","CCP_138573658_SRC","odour","25/10/2026","not_acceptable","WHO","not_resolvable","0","",""
-"c3b862e9-4e41-42d1-bcdb-f22e2d100775","2026-10-25 – Borehole with hand pump – 3658_SRC-tds","Burkina Faso","BF13","BF1300","BF130001","138573658","CCP_138573658_SRC","tds","25/10/2026","1100 mg/L","WHO","in_progress","0","",""
+"c3b862e9-4e41-42d1-bcdb-f22e2d100775","2026-10-25 – Borehole with hand pump – 3658_SRC-tds","Burkina Faso","BF13","BF1300","BF130001","138573658","CCP_138573658_SRC","tds","25/10/2026","1100 mg/L","WHO","in_progress","1","2026-10-26","1"
 "c3b862e9-4e41-42d1-bcdb-f22e2d100775","2026-10-25 – Borehole with hand pump – 3658_SRC-fluoride","Burkina Faso","BF13","BF1300","BF130001","138573658","CCP_138573658_SRC","fluoride","25/10/2026","10 mg/L","WHO","resolved","0","",""
