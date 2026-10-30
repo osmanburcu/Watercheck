@@ -3107,3 +3107,4 @@ CCP_138575178_DST,Water system 1521 – Distribution tap / outlet,138575178,Dist
 "CCP091314759-12190","Test-23223 – Water tank / reservoir","WS091314759","Water source critical control point","","","25.282265 10.803545 0 0"
 "CCP091314759-12190","Test-23223 – Water tank / reservoir","WS091314759","Water source critical control point","","storage","25.282265 10.803545 0 0"
 "CCP301536617-30150","Camp A Borehole – Distribution point (tap / outlet)","WS301536617","Water source critical control point","close","tap","12.371 -1.519 300 5"
+"CCP301546557-30154","Sample A  Tapstand 2 point – Distribution point (tap / outlet)","WS301546557","Water source critical control point","medium","tap","12.365 -1.521 300 5"
