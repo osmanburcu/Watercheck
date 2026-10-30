@@ -3109,3 +3109,4 @@ CCP_138575178_DST,Water system 1521 – Distribution tap / outlet,138575178,Dist
 "CCP301536617-30150","Camp A Borehole – Distribution point (tap / outlet)","WS301536617","Water source critical control point","close","tap","12.371 -1.519 300 5"
 "CCP301546557-30154","Sample A  Tapstand 2 point – Distribution point (tap / outlet)","WS301546557","Water source critical control point","medium","tap","12.365 -1.521 300 5"
 "CCP301556692-30151","Komsilga Solar Point – Distribution line","WS301556692","Water source critical control point","close","distr_line","12.402 -1.56 300 5"
+"CCP302305548-30234","Komsilga well point – Water source / HP outlet","WS302305548","Water source critical control point","","source","12.41 -1.548 300 5"
