@@ -3113,3 +3113,4 @@ CCP_138575178_DST,Water system 1521 – Distribution tap / outlet,138575178,Dist
 "CCP302328237-30236","Trucking Point B point – Water truck / tanker","WS302328237","Water source critical control point","","tanker","12.355 -1.505 300 5"
 "CCP302335002-30233","Nioko spring point – Water source / HP outlet","WS302335002","Water source critical control point","","source","12.395 -1.572 300 5"
 "CCP302342996-30233","Household visit 1 point – Household storage / container","WS302342996","Water source critical control point","","hh","12.368 -1.515 300 5"
+"CCP302347584-30231","Kiosk C point – Distribution point (tap / outlet)","WS302347584","Water source critical control point","medium","tap","12.408 1.555 300 5"
